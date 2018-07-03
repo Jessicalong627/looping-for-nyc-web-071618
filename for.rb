@@ -5,3 +5,7 @@ def using_for
 end
 
 
+
+for shoe in shoe_count 
+	puts "I'm putting a pair of shoes away."
+end
